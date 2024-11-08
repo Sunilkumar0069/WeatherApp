@@ -1,5 +1,4 @@
 import 'package:dart_json_mapper/dart_json_mapper.dart';
-import 'package:json_annotation/json_annotation.dart';
 
 @jsonSerializable
 class WeatherAIBO {
